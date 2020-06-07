@@ -1,3 +1,3 @@
 # example
 
-[ ] To do item
+[x] To do item
